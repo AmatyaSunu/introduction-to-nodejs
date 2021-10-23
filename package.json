@@ -1,0 +1,15 @@
+{
+  "name": "introduction-to-nodejs",
+  "version": "1.0.0",
+  "description": "introduction class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Sunidhi Amatya",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
